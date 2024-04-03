@@ -22,6 +22,6 @@ Aqui estão algumas informações sobre mim:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,github," />
+    <img src="https://skillicons.dev/icons?i=vscode,github," />
   </a>
 </p>
